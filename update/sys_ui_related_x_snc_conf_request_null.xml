@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_snc_conf_request" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Conf Request - Default view" name="x_snc_conf_request" related_list="NULL" sys_domain="global" view="Default view">07609355f8a033007f44cc8e08b3893d</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-31 23:41:43</sys_created_on>
+            <sys_id>43609355f8a033007f44cc8e08b3893e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-31 23:41:43</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Conf Request - Default view</calculated_name>
+            <filter/>
+            <name>x_snc_conf_request</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-31 23:41:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>07609355f8a033007f44cc8e08b3893d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Conf Request - Default view</sys_name>
+            <sys_package display_value="Conference Registration" source="x_snc_conf">7fed5e07dbe623005e3290c7db96198d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Conference Registration">7fed5e07dbe623005e3290c7db96198d</sys_scope>
+            <sys_update_name>sys_ui_related_x_snc_conf_request_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-31 23:41:43</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

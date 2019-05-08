@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab">81c0f607db2a23005e3290c7db96190e</grid_canvas>
+        <height>9</height>
+        <portal_widget display_value="Created 2018-12-27 21:47:34">66d03a07db2a23005e3290c7db961968</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-27 21:47:34</sys_created_on>
+        <sys_id>a2d03a07db2a23005e3290c7db96196a</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>81c0f607db2a23005e3290c7db96190e</sys_name>
+        <sys_package display_value="Conference Registration" source="x_snc_conf">7fed5e07dbe623005e3290c7db96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Registration">7fed5e07dbe623005e3290c7db96198d</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_a2d03a07db2a23005e3290c7db96196a</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-27 21:48:13</sys_updated_on>
+        <width>7</width>
+    </sys_grid_canvas_pane>
+</record_update>

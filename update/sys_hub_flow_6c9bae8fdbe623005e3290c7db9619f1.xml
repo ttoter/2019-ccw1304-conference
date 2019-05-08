@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>conference_approval</internal_name>
+        <label_cache>[{"name":"Updated_1.current.opened_by.manager","label":"Trigger➛Conf Request Record➛Requester➛Manager","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"manager"},{"name":"86ee64fe-2af4-4d52-826d-915af7bdb629.approval_state","label":"1➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"Updated_1.current","label":"Trigger➛Request Record","reference":"x_snc_conf_request","reference_display":"Conf Request","type":"reference","base_type":"reference"},{"name":"Updated_1.current.user","label":"Trigger➛Request Record➛User","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_snc_conf_request","column_name":"user"},{"name":"Updated_1.current.user.manager","label":"Trigger➛Request Record➛User➛Manager","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"manager"},{"name":"6bd9b7ba-6505-4ef7-8322-501a7d816356.record","label":"2.1➛Request Record","reference":"x_snc_conf_request","reference_display":"Conf Request","type":"reference","base_type":"reference"},{"name":"6bd9b7ba-6505-4ef7-8322-501a7d816356.table_name","label":"2.1➛Request Table","reference":"x_snc_conf_request","reference_display":"Conf Request","type":"table_name","base_type":"table_name"},{"name":"3bed672e-7c3c-4f05-a8a1-db6441366976.record","label":"3.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"3bed672e-7c3c-4f05-a8a1-db6441366976.table_name","label":"3.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"}]</label_cache>
+        <latest_snapshot>ee1eaa43db2a23005e3290c7db961963</latest_snapshot>
+        <master_snapshot>ee1eaa43db2a23005e3290c7db961963</master_snapshot>
+        <name>Conference approval</name>
+        <outputs/>
+        <remote_trigger_id>831eaa43db2a23005e3290c7db9619e7</remote_trigger_id>
+        <run_as>system</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-27 21:24:30</sys_created_on>
+        <sys_id>6c9bae8fdbe623005e3290c7db9619f1</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Conference approval</sys_name>
+        <sys_package display_value="Conference Registration" source="x_snc_conf">7fed5e07dbe623005e3290c7db96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Registration">7fed5e07dbe623005e3290c7db96198d</sys_scope>
+        <sys_update_name>sys_hub_flow_6c9bae8fdbe623005e3290c7db9619f1</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-29 21:48:37</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=6c9bae8fdbe623005e3290c7db9619f1"/>
+    <sys_variable_value action="delete_multiple" query="document_key=6c9bae8fdbe623005e3290c7db9619f1"/>
+</record_update>

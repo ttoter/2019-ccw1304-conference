@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">d35d2e03db2a23005e3290c7db96194e</block>
+        <comment/>
+        <connected_to>05973a9d-ac0b-414e-9ae9-f20111ba20d5</connected_to>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <flow display_value="">ee1eaa43db2a23005e3290c7db961963</flow>
+        <inputs/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>3</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-27 21:35:34</sys_created_on>
+        <sys_id>3e1eaa43db2a23005e3290c7db961986</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Conference Registration" source="x_snc_conf">7fed5e07dbe623005e3290c7db96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Registration">7fed5e07dbe623005e3290c7db96198d</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_3e1eaa43db2a23005e3290c7db961986</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-29 21:48:36</sys_updated_on>
+        <ui_id>5f4796b0-3724-4291-b9b1-bc064715178e</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=3e1eaa43db2a23005e3290c7db961986"/>
+</record_update>

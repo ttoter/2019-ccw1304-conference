@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <item_view display_value="My Approvals item view">3b1d7037db2a23005e3290c7db961919</item_view>
+        <name>Master Item</name>
+        <screen display_value="My Approvals">082df837db2a23005e3290c7db961941</screen>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-29 21:17:24</sys_created_on>
+        <sys_id>842d7837db2a23005e3290c7db9619cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Master Item</sys_name>
+        <sys_package display_value="Conference Registration" source="x_snc_conf">7fed5e07dbe623005e3290c7db96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Registration">7fed5e07dbe623005e3290c7db96198d</sys_scope>
+        <sys_update_name>sys_sg_master_item_842d7837db2a23005e3290c7db9619cb</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-29 21:17:24</sys_updated_on>
+        <table>sysapproval_approver</table>
+    </sys_sg_master_item>
+</record_update>

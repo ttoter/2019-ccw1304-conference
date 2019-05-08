@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="dl_matcher" label="Conference Matcher" max_length="40" name="x_snc_conf_conference_matcher" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Approver group" max_length="32" name="approver_group" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="type" choice_table="x_snc_conf_request" label="Conference type" max_length="40" name="conference_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Conference" sequence="0" value="conference"/>
+                <element inactive_on_update="false" label="Meetup" sequence="1" value="meetup"/>
+                <element inactive_on_update="false" label="Trade show" sequence="2" value="trade show"/>
+                <element inactive_on_update="false" label="Training" sequence="3" value="training"/>
+                <element inactive_on_update="false" label="Workshop" sequence="4" value="workshop"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="approver_group"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>8b9489fbdb2a23005e3290c7db961963</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sysapproval_approver">
+    <sysapproval_approver action="INSERT_OR_UPDATE">
+        <approval_column>requested</approval_column>
+        <approval_journal_column/>
+        <approval_source/>
+        <approver display_value="Jeanie Dalen">4e826bf03710200044e0bfc8bcbe5d41</approver>
+        <comments/>
+        <document_id>d5627e47db2a23005e3290c7db961966</document_id>
+        <due_date/>
+        <expected_start>2018-12-29 21:50:06</expected_start>
+        <group/>
+        <iteration>1</iteration>
+        <order/>
+        <process_step/>
+        <source_table>x_snc_conf_request</source_table>
+        <state>requested</state>
+        <state_binding/>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-12-29 21:50:06</sys_created_on>
+        <sys_id>8b9489fbdb2a23005e3290c7db961963</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-12-29 21:50:06</sys_updated_on>
+        <sysapproval display_value="CONF0001009">d5627e47db2a23005e3290c7db961966</sysapproval>
+        <wf_activity/>
+    </sysapproval_approver>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-29 21:50:32</sys_created_on>
+        <sys_id>55b4c9fbdb2a23005e3290c7db9619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CONF0001009</sys_name>
+        <sys_package display_value="Conference Registration" source="x_snc_conf">7fed5e07dbe623005e3290c7db96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Registration">7fed5e07dbe623005e3290c7db96198d</sys_scope>
+        <sys_update_name>sys_metadata_link_55b4c9fbdb2a23005e3290c7db9619f1</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-29 21:50:32</sys_updated_on>
+        <tablename>sysapproval_approver</tablename>
+    </sys_metadata_link>
+</record_update>

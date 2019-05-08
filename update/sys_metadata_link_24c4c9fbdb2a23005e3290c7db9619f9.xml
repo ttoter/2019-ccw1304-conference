@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>d5627e47db2a23005e3290c7db961966</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_snc_conf_request">
+    <x_snc_conf_request action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to/>
+        <assignment_group display_value="Approval: Conference" name="Approval: Conference">bd07739fdbe623005e3290c7db961906</assignment_group>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at>2018-12-29 21:44:46</closed_at>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <conference_cost>0</conference_cost>
+        <conference_location>Las Vegas</conference_location>
+        <conference_name>Knowledge 19</conference_name>
+        <contact_type/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description>I've been accepted as a speaker at Knowledge 19. Registration fee is waived, but I still need a hotel and flight.</description>
+        <due_date/>
+        <email>sabrina.deppert@example.com</email>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <manager>Fred Luddy</manager>
+        <number>CONF0001009</number>
+        <opened_at>2018-12-27 21:54:59</opened_at>
+        <opened_by/>
+        <order/>
+        <parent/>
+        <phone>(123)555-1256</phone>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <requester>Sabrina Deppert</requester>
+        <short_description/>
+        <sla_due/>
+        <state>1</state>
+        <sys_class_name>x_snc_conf_request</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-27 21:54:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d5627e47db2a23005e3290c7db961966</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2019-03-07 00:24:37</sys_updated_on>
+        <time_worked/>
+        <travel_cost>2500</travel_cost>
+        <travel_required>true</travel_required>
+        <type>conference</type>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end>2019-05-10 20:54:43</work_end>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start>2019-05-07 20:54:35</work_start>
+    </x_snc_conf_request>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-29 21:50:45</sys_created_on>
+        <sys_id>24c4c9fbdb2a23005e3290c7db9619f9</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>CONF0001009</sys_name>
+        <sys_package display_value="Conference Registration" source="x_snc_conf">7fed5e07dbe623005e3290c7db96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Registration">7fed5e07dbe623005e3290c7db96198d</sys_scope>
+        <sys_update_name>sys_metadata_link_24c4c9fbdb2a23005e3290c7db9619f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-31 23:10:50</sys_updated_on>
+        <tablename>x_snc_conf_request</tablename>
+    </sys_metadata_link>
+</record_update>

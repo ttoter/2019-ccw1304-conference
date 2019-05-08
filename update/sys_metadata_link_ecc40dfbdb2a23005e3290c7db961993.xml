@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>36e18d3bdb2a23005e3290c7db96194b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_snc_conf_request">
+    <x_snc_conf_request action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to/>
+        <assignment_group display_value="Approval: Workshop" name="Approval: Workshop">b0d77b9fdbe623005e3290c7db9619a1</assignment_group>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <conference_cost>0</conference_cost>
+        <conference_location>ServiceNow Santa Clara Office</conference_location>
+        <conference_name>IoT on ServiceNow</conference_name>
+        <contact_type/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description>This is a free workshop. I would like to attend to learn more how IoT can work in our manufacturing facility.</description>
+        <due_date/>
+        <email/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <manager/>
+        <number>CONF0001013</number>
+        <opened_at>2018-12-29 21:38:21</opened_at>
+        <opened_by/>
+        <order/>
+        <parent/>
+        <phone/>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <requester>Gil Scarpa</requester>
+        <short_description/>
+        <sla_due/>
+        <state>-5</state>
+        <sys_class_name>x_snc_conf_request</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-29 21:39:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>36e18d3bdb2a23005e3290c7db96194b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2019-03-07 00:23:13</sys_updated_on>
+        <time_worked/>
+        <travel_cost>0</travel_cost>
+        <travel_required>false</travel_required>
+        <type>workshop</type>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end>2019-07-20 23:00:00</work_end>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start>2019-07-20 19:00:00</work_start>
+    </x_snc_conf_request>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-29 21:50:45</sys_created_on>
+        <sys_id>ecc40dfbdb2a23005e3290c7db961993</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>CONF0001013</sys_name>
+        <sys_package display_value="Conference Registration" source="x_snc_conf">7fed5e07dbe623005e3290c7db96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Registration">7fed5e07dbe623005e3290c7db96198d</sys_scope>
+        <sys_update_name>sys_metadata_link_ecc40dfbdb2a23005e3290c7db961993</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-31 23:10:50</sys_updated_on>
+        <tablename>x_snc_conf_request</tablename>
+    </sys_metadata_link>
+</record_update>

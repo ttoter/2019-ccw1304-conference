@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="approver_group" label="Approver group" language="en" table="x_snc_conf_conference_matcher">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>approver_group</element>
+            <help/>
+            <hint/>
+            <label>Approver group</label>
+            <language>en</language>
+            <name>x_snc_conf_conference_matcher</name>
+            <plural>Approver groups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-28 21:39:49</sys_created_on>
+            <sys_id>b2a8b7dfdbe623005e3290c7db961904</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Approver group</sys_name>
+            <sys_package display_value="Conference Registration" source="x_snc_conf">7fed5e07dbe623005e3290c7db96198d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Conference Registration">7fed5e07dbe623005e3290c7db96198d</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_conf_conference_matcher_approver_group_en</sys_update_name>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-28 21:39:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

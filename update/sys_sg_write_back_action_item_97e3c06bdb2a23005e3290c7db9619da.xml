@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Approvals Approve WB</name>
+        <query_condition table="sysapproval_approver">sys_id={{Approvals_Approve_Sys_ID_IP}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="=" or="false" value="{{Approvals_Approve_Sys_ID_IP}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-12-28 22:29:44</sys_created_on>
+        <sys_id>97e3c06bdb2a23005e3290c7db9619da</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Approvals Approve WB</sys_name>
+        <sys_package display_value="Conference Registration" source="x_snc_conf">7fed5e07dbe623005e3290c7db96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Registration">7fed5e07dbe623005e3290c7db96198d</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_97e3c06bdb2a23005e3290c7db9619da</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-12-28 22:31:07</sys_updated_on>
+        <table>sysapproval_approver</table>
+        <template>state=approved^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=97e3c06bdb2a23005e3290c7db9619da"/>
+</record_update>

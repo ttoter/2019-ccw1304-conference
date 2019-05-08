@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Conf Request" max_length="40" name="x_snc_conf_request" type="collection">
+        <element attributes="edge_encryption_enabled=true,omit_sys_original=true" default="0" label="Conference cost" max_length="20" name="conference_cost" type="currency"/>
+        <element label="Conference location" mandatory="true" max_length="1000" name="conference_location" type="string"/>
+        <element label="Conference name" max_length="40" name="conference_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Manager" max_length="40" name="manager" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone" max_length="40" name="phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requester" max_length="40" name="requester" type="string"/>
+        <element attributes="edge_encryption_enabled=true,omit_sys_original=true" default="0" label="Travel cost" max_length="20" name="travel_cost" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Travel required" max_length="40" name="travel_required" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="conference" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Conference" sequence="0" value="conference"/>
+                <element inactive_on_update="false" label="Meetup" sequence="1" value="meetup"/>
+                <element inactive_on_update="false" label="Trade show" sequence="2" value="trade show"/>
+                <element inactive_on_update="false" label="Training" sequence="3" value="training"/>
+                <element inactive_on_update="false" label="Workshop" sequence="4" value="workshop"/>
+            </choice>
+        </element>
+    </element>
+</database>
